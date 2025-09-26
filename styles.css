@@ -1,0 +1,22 @@
+#header {
+    background-color:#006d77
+}
+#header > h2{
+    color:#83c5be
+}
+header > p {
+    color:#edf6f9
+}
+section {
+    background-color:#edf6f9
+}
+section > h2 {
+    color:#006d77
+}
+section > p {
+    color:#83c5be
+}
+
+.navigator{
+    color:#edf6f9
+}
